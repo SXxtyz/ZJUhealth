@@ -1,0 +1,40 @@
+{
+  "zdj": {
+    "alive": true,
+    "send_mail": true,
+    "uri": "https://healthreport.zju.edu.cn/ncov/wap/default/index",
+    "host": "smtp.163.com",
+    "port": 465,
+    "sender": "XXXXXXXXX@163.com",
+    "mail_pwd": "XXXXXXXXX",
+    "receiver": "XXXXXXXX@qq.com",
+    "user": "XXXXXXX",
+    "pwd": "XXXXXXXXX",
+    "clock_info": {
+      "sfyxjzxgym": 1,
+      "sfbyjzrq": 5,
+      "jzxgymqk": 3,
+      "sffrqjwdg": 2,
+      "sfqtyyqjwdg": 2,
+      "tw": 2,
+      "sfcxtz": 2,
+      "sfjcbh": 2,
+      "sfjcqz": 2,
+      "sfyqjzgc": 2,
+      "sfcyglq": 2,
+      "jrsfqzys": 2,
+      "jrsfqzfy": 2,
+      "sfhsjc": 1,
+      "sfcxzysx": 2,
+      "sfsqhzjkk": 1,
+      "zgfx14rfh": 2,
+      "sfzx": 1,
+      "sfzgn": 1,
+      "area": "浙江省 杭州市 西湖区",
+      "sfymqjczrj": 2,
+      "sfqrxxss": true,
+      "sqhzjkkys": 1,
+      "bztcyy": 4
+    }
+  }
+}

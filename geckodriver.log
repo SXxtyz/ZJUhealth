@@ -1,0 +1,53 @@
+1626846588770	geckodriver	INFO	Listening on 127.0.0.1:49380
+1626846588777	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZbW3xf"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626846636370	geckodriver	INFO	Listening on 127.0.0.1:42204
+1626846636376	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTF8HXx"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626846923141	geckodriver	INFO	Listening on 127.0.0.1:40240
+1626846923148	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU3dMKv"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626846976124	geckodriver	INFO	Listening on 127.0.0.1:36291
+1626846976131	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTid6e4"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626847051495	geckodriver	INFO	Listening on 127.0.0.1:47508
+1626847051502	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGwj7xc"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626847523761	geckodriver	INFO	Listening on 127.0.0.1:40513
+1626847523767	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6lgRLM"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626849613922	geckodriver	INFO	Listening on 127.0.0.1:35042
+1626849613929	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepVs3i7"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626849642402	geckodriver	INFO	Listening on 127.0.0.1:33924
+1626849642409	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelE5B1e"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626849673702	geckodriver	INFO	Listening on 127.0.0.1:36724
+1626849673709	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefwhCG2"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626849699536	geckodriver	INFO	Listening on 127.0.0.1:39921
+1626849699542	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehPGlns"
+XPCOMGlueLoad error for file /home/zdj/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1626850226410	geckodriver	INFO	Listening on 127.0.0.1:55409
+1626850226416	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilees4kAw"
+Error: no DISPLAY environment variable specified
